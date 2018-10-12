@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1539374057 source:c:\users\ariel\documents\c++ aplications\enade2017\main.cpp
+	<iostream>
+	"../include/Instancia.h"
+	"../include/Enade.h"
+	<vector>
+	<locale>
+
+1539370417 c:\users\ariel\documents\c++ aplications\enade2017\include\instancia.h
+	"../include/Enade.h"
+	<vector>
+	<string>
+
+1539362838 c:\users\ariel\documents\c++ aplications\enade2017\include\enade.h
+	<string>
+
+1539369385 source:c:\users\ariel\documents\c++ aplications\enade2017\src\enade.cpp
+	"Enade.h"
+	<string>
+
+1539374760 source:c:\users\ariel\documents\c++ aplications\enade2017\src\instancia.cpp
+	"Instancia.h"
+	"../include/Enade.h"
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<locale>
+	<vector>
+
